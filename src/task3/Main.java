@@ -2,13 +2,7 @@ package task3;
 
 public class Main {
     public static void main(String[] args) {
-//     student obj = new student(2);
-//     student obj2 = new student(4);
-//     student obj3 = obj.add(obj2);
-//        System.out.println(obj3.val);
-//        student obj1 = new student(2);
-//        student obj2 = new student(2);
-//        System.out.println(obj1.isEqual(obj2));
+
         if( job.recruiting)
             System.out.println("lucky");
         else System.out.println("unlucky");
